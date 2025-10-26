@@ -60,11 +60,11 @@ Você pode rodar o script SQL diretamente no PgAdmin ou pode rodar o script SQL 
 psql -U postgres -d bom_gosto -f ./bom-gosto/bom_gosto.sql
 ```
 
-## Querys
+## Queries
 
-Agora que o banco foi populado, você contrará as querys no arquivo `querys.sql` dentro da pasta `bom-gosto`.
+Agora que o banco foi populado, você contrará as queries no arquivo `queries.sql` dentro da pasta `bom-gosto`.
 
 ```sh
 ls bom-gosto
-# bom_gosto.sql  querys.sql  README.md
+# $ bom_gosto.sql  queries.sql  README.md
 ```
