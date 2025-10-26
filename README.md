@@ -67,5 +67,5 @@ Agora que o banco foi populado, você contrará as queries no arquivo `queries.s
 ```sh
 ls bom-gosto
 # $ bom_gosto.sql  queries.sql  README.md
-```a
+```
 IMPORTANTE: você deve usar uma query por vez
